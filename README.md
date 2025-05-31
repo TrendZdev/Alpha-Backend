@@ -36,6 +36,6 @@
 - Chat (whispering, global chat, party chat).
 - Friends.
 
-### NOTE: This is not everything the Backend offers we have many more features, they are just not shown in the readme file.
+## NOTE: This is not everything the Backend offers we have many more features, they are just not shown in the readme file.
 ### NOTE 2: Alpha Backend does not support Save the World.
 
